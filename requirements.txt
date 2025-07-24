@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+phonemizer
+librosa
+scikit-learn
+pandas
+scipy
+soundfile
